@@ -21,7 +21,6 @@
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40"/>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdullahOztuurkk&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahOztuurkk" /> </p>
 
 
 [email]: mailto:omerfaruqyilmaz@gmail.com
