@@ -1,5 +1,4 @@
 <h3 align="center">Hi 👋, I'm Ömer Faruk Yılmaz</h3>
-
 - 🔭 I am currently working on Oe-Tech as Back-End Developer
 - 🌱 I’m currently learning JavaScript and React
 - 📫 You can reach me via [Linkedin][linkedin] or [email][email]
@@ -19,6 +18,7 @@
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40" height="40"/>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omerfaruqyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="omerfaruqyilmaz" /> </p>
 
 
 [email]: mailto:omerfaruqyilmaz@gmail.com
