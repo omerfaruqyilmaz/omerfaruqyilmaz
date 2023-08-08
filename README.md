@@ -21,7 +21,7 @@
 <a href="https://firebase.google.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<a href="https://www.javascript.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
