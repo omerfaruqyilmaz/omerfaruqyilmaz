@@ -1,8 +1,7 @@
 <h3 align="center">Hi 👋, I'm Ömer Faruk Yılmaz</h3>
 
-- 🔭 I am currently working on Oe-Tech as Back-End Developer
-- 🌱 I am currently learning JavaScript and React
-- 📫 You can reach me via [Linkedin][linkedin] or [Email][email]
+- 🔭 Currently expanding my skills in back-end development and exploring new technologies.
+- 📫 Reach me on [LinkedIn](linkedin) or via [Email](email).
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
