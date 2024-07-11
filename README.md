@@ -44,5 +44,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerfaruqyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="omerfaruqyilmaz" /> </p>
 
 
-[email]: mailto:omerfaruqyilmaz@gmail.com
-[linkedin]: https://www.linkedin.com/in/omerfaruqyilmaz
+[Email]: mailto:omerfaruqyilmaz@gmail.com
+[LinkedIn]: https://www.linkedin.com/in/omerfaruqyilmaz
