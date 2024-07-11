@@ -1,7 +1,13 @@
 <h3 align="center">Hi 👋, I'm Ömer Faruk Yılmaz</h3>
 
 - 🔭 Currently expanding my skills in back-end development and exploring new technologies.
-- 📫 Reach me on [LinkedIn](linkedin) or via [Email](email).
+- 📫 How to reach me **omerfaruqyilmaz@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/omerfaruqyilmaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omerfaruqyilmaz/" height="30" width="40" /></a>
+</p>
+
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
